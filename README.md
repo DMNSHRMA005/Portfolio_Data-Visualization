@@ -3,7 +3,7 @@
 # My_Portfolio
 Analytical and detail-oriented Data Analyst with a solid foundation in data analysis, statistical methods, and data visualization. Skilled in utilizing tools such as SQL, Python, Excel, Power BI. 
 
-# [Project 1: Blinkit-Sales-Dashboar](https://github.com/DMNSHRMA005/Blinkit_Dashboard-files/blob/a3db04383da27fbdac6bacd4dc251ad9fb30930c/README.md)) 
+# [Project 1: Blinkit-Sales-Dashboar](https://github.com/DMNSHRMA005/Blinkit_Dashboard-files/blob/a3db04383da27fbdac6bacd4dc251ad9fb30930c/README.md)
 
 ### Dashboard
 ![Dashboard_upload](https://private-user-images.githubusercontent.com/96532941/363465431-ca964084-66a0-496d-9548-9b452b3d029e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUxNzQ1MTEsIm5iZiI6MTcyNTE3NDIxMSwicGF0aCI6Ii85NjUzMjk0MS8zNjM0NjU0MzEtY2E5NjQwODQtNjZhMC00OTZkLTk1NDgtOWI0NTJiM2QwMjllLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAxVDA3MDMzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMwOTk1M2NjYjllNGQ5ZTZlZDJlZmM1MDZjMTJhMWRmMjg1OTY0MGQ5ZTAxMDc0MmMyNGRjMzlkZmVhMDBkNDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.A6g3KjwSvVfdV1BvLsc2KsrGvzsAhOnLUJFUg43B1_U)
