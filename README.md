@@ -113,3 +113,14 @@ A card visual was used to represent count of Items.
 
 
 ![Dashboard_upload](https://private-user-images.githubusercontent.com/96532941/363465609-38d9b159-add5-45bb-8698-b7dcbe9b9fcc.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUxNzQ3MjEsIm5iZiI6MTcyNTE3NDQyMSwicGF0aCI6Ii85NjUzMjk0MS8zNjM0NjU2MDktMzhkOWIxNTktYWRkNS00NWJiLTg2OTgtYjdkY2JlOWI5ZmNjLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAxVDA3MDcwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE5YWZiOGVhYjcwMzA5ZjlhZjE0YjkyOGIxMGM0ZTI1ZDk5ZGNmMGEwMjhjYmQ1ZGQyOGRkMDk4ZGRkYzNhYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.q22Gd1YlawpbsPcYjz7v8RioYFTW0anxCNI7l9MxrdU)
+
+# [Project 2: NetFlix Movies and TV Shows Exploratory Data Analysis(EDA) ](https://github.com/DMNSHRMA005/Portfolio_Data-Visualization/blob/2590e337edcdea4e31924ca2974f03fc0918ba0d/netflix-exploratory-data-analysis.ipynb)
+This Project is done on Google Colab and is mainly based on Python. In this Project, I’ve found some correlations between different fields of the given dataset and I've also done some visualizations highlighting the given data.
+
+* This Project is based on Movie Industry.
+* The project is mainly based on pandas(for data cleaning), numpy(for statistics), seaborn and matplotlib(for data visualization).
+* Some of the visualizations from the project:
+
+![heatmap](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/8c9f3c6f-5cef-43eb-be07-351dc3eff25b)
+![line graph](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/457023cf-aa8e-4755-bd96-596f7d389b86)
+![scatter](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/14cfb81d-50b3-4fc2-baca-7ed5a842101a)
